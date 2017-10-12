@@ -6,7 +6,7 @@
 	#define inline __inline
 #endif
 
-#include "matrix.h"
+#include "matrix_.h"
 #include "list.h"
 #include "image.h"
 #include "tree.h"

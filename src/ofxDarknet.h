@@ -19,7 +19,7 @@
 #include "box.h"
 #include "tree.h"
 #include "layer.h"
-#include "matrix.h"
+#include "matrix_.h"
 #include "connected_layer.h"
 #include "gru_layer.h"
 #include "rnn_layer.h"
